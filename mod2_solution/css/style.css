@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Module 2 Solution -rf</title>
+</head>
+<body>
+	<h1>Our Menu</h1>
+	<div class="row">
+	<div class="container col-lg-4 col-md-6 col-sm-12">
+		<section>
+		<div id="chicken">Chicken</div>
+		<p>
+			You've heard it before—"Chicken: It's what's for dinner." It's true, chicken breasts, thighs (our favorite cut), or even a whole bird all have a spot on our kitchen table. Unfortunately, that can mean falling into a dinner rut much too easily for our liking. If you’re like us and just can’t bear to make your (or your family’s) old standbys for the umpteenth time, we’ve got you. Get inspired with our list of best chicken dinner recipes—you’ll be sure to find a new weeknight favorite.  
+		</p>
+    </section>
+	</div>
+	<div class="container col-lg-4 col-md-6 col-sm-12">
+		<section>
+		<div id="beef">Beef</div>
+		<p> 
+      Beef can be prepared in various ways; cuts are often used for steak, which can be cooked to varying degrees of doneness, while trimmings are often ground or minced, as found in most hamburgers. Beef contains protein, iron, and vitamin B12.Beef has a high environmental impact, being a primary driver of deforestation with the highest greenhouse gas emissions of any agricultural product.
+		</p>
+		</section>
+	</div>
+	<div class="container col-lg-4 col-md-12 col-sm-12">
+		<section>
+		<div id="sushi">Sushi</div>
+		<p>
+      Sushi is a Japanese dish featuring specially prepared rice and usually some type of fish or seafood, often raw, but sometimes cooked. 
+
+      And though you might automatically associate the word sushi with raw fish, it's actually the rice that is the most important ingredient. Indeed, the word "sushi" refers to the sour flavor of the vinegared rice. Regardless of the toppings or fillings, sushi always includes rice.
+		</p>
+		</section>
+	</div>
+	</div>
+</body>
+</html>
